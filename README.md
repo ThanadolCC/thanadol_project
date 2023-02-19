@@ -21,14 +21,11 @@ Here are the requirments :
 - The board should be printed out every time a player makes a move
 - You should be able to accept input of the player position and then place a symbol on the board.
 
-The position on the board is referenced from Numpad on keyboard
+The positions on the board are referenced from Numpad on keyboard
 
-
-<hr> | 7 | 8 | 9 | <hr>
-<hr> ----------- <hr>
-<hr> | 4 | 5 | 6 | <hr>
-<hr> ----------- <hr>
-<hr> | 1 | 2 | 3 | <hr>
+| 7 | 8 | 9 | 
+| 4 | 5 | 6 | 
+| 1 | 2 | 3 |
 
     
-    
+
